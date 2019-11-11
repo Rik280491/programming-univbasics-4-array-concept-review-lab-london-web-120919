@@ -4,7 +4,7 @@ end
   
 
 def find_max_value(array)
-  
+  array.each 
 end
 
 def find_min_value(array)
