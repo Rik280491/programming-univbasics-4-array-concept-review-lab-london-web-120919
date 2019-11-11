@@ -14,5 +14,7 @@ end
 def find_min_value(array)
   min_value = 0 
   array.each do |i|
-    if i < 
+    if i < min_value
+      min_value = i
+    end
 end
